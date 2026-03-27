@@ -73,9 +73,9 @@ All components are designed to work together without manual intervention once co
 
 │
 
-├── EUMS_QKD_Network_Results/ # simulation outputs per country
+├── EUMS_QKD_Network_Results/ # simulation outputs per country, scripts create the folder
 
-├── EUMS_QKD_Network_Plots/ # regenerated plots
+├── EUMS_QKD_Network_Plots/ # regenerated plots, scripts create the folder
 
 └── README.md
 
