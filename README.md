@@ -208,7 +208,7 @@ python 03_LateX_Table_EUMS_Results.py
 
 Dependencies:
 
-python==3.11.14
+- python==3.11.14
 numpy==2.4.2
 pandas==3.0.0
 scipy==1.17.0
