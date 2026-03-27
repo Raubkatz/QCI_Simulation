@@ -69,7 +69,7 @@ from shapely.ops import unary_union, transform as shapely_transform
 from shapely.prepared import prep as shapely_prep
 
 # EU_List.py must be available in the same folder or on PYTHONPATH
-import EU_List_islands_alltogetehr as EU
+import EU_MS_List as EU
 
 
 # ============================================================
