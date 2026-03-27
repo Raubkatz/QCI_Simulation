@@ -1,4 +1,4 @@
-# EU QCI Terrestrial QKD Network Simulation — Experimental Code Repository
+# Euro QCI Terrestrial QKD Network Simulation
 
 Author: Dr. Sebastian Raubitzek
 
