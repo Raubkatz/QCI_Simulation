@@ -209,15 +209,15 @@ python 03_LateX_Table_EUMS_Results.py
 Dependencies:
 
 - python==3.11.14
-numpy==2.4.2
-pandas==3.0.0
-scipy==1.17.0
-networkx==3.6.1
-geopandas==1.1.2
-shapely==2.1.2
-pyproj==3.7.2
-matplotlib==3.10.8
-requests==2.32.5
+- numpy==2.4.2
+- pandas==3.0.0
+- scipy==1.17.0
+- networkx==3.6.1
+- geopandas==1.1.2
+- shapely==2.1.2
+- pyproj==3.7.2
+- matplotlib==3.10.8
+- requests==2.32.5
 
 ---
 
